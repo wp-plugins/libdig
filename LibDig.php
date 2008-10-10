@@ -2,8 +2,8 @@
 /*
 Plugin Name: LibDig plugin
 Plugin URI: http://www.flocktogether.org.uk/blog/2008/10/09/libdig-wordpress-plug-in/
-Description: Adds a Lib Dig box to Wordpress posts and pages
-Version: 0.3
+Description: Adds a Lib Dig box to Wordpress posts
+Version: 0.31
 Author: Martin Tod
 Author URI: http://www.martintod.org.uk
 */
@@ -33,7 +33,7 @@ function addLibDigBox($content) {
 	$permalink 	= urlencode(get_permalink($post->ID));	
 	$title 		= urlencode($post->post_title);
 	$title	 	= str_replace('+','%20',$title);
-	$f 			= 'left';
+	$f 			= 'left'; # Change 'left' to 'right' if you want the LibDig box to appear on the right side of your posts
 	$digScript = '<script type="text/javascript" src="http://libdig.co.uk/widget.php?f='.urlencode($f).'&amp;u='.$permalink.'&amp;t='.$title.'"></script>';
 	if(!is_page() && !is_feed()):
 		$content = $digScript.$content;
