@@ -12,7 +12,7 @@ Adds a LibDig button to your blog posts.
 
 Adds a [LibDig](http://www.libdig.co.uk "UK Liberal Democrats Social Bookmarking") button to your blog posts.
 
-LibDig is the UK Liberal Democrats Social Bookmarking service.
+[LibDig](http://www.libdig.co.uk "UK Liberal Democrats Social Bookmarking") is the [UK Liberal Democrats](http://www.libdems.org.uk) social bookmarking service.
 
 == Installation ==
 
