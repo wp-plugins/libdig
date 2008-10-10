@@ -27,5 +27,5 @@ Yes. You can either wait for me to create an options menu or edit the LibDig.php
 
 == Screenshots ==
 
-1. How the Lib Dig button will appear on your blog
-2. [LibDig](http://www.libdig.co.uk "UK Liberal Democrats Social Bookmarking") website
+1. [LibDig](http://www.libdig.co.uk "UK Liberal Democrats Social Bookmarking") button
+2. [LibDig website](http://www.libdig.co.uk "UK Liberal Democrats Social Bookmarking")
