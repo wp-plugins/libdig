@@ -21,7 +21,7 @@ Adds a [LibDig](http://www.libdig.co.uk "UK Liberal Democrats Social Bookmarking
 
 == Frequently asked questions ==
 
-= Can I move the LibDig box to the right hand side of my blog?
+= Can I move the LibDig box to the right hand side of my blog? =
 
 Yes. You can either wait for me to create an options menu or edit the LibDig.php file and change 'left' to 'right' on line 36.
 
