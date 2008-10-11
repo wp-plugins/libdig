@@ -1,7 +1,7 @@
 === LibDig ===
 Contributors: mpntod
 Donate link: http://www.flocktogether.org.uk/donation.php
-Tags: posts,LibDig,plugin,post,bookmark,social bookmark,bookmarking,social bookmarketing,liberal,politics
+Tags: posts,LibDig,plugin,post,bookmark,social bookmark,bookmarking,social bookmarketing,liberal,politics,Liberal Democrats
 Requires at least: 2.02
 Tested up to: 2.62
 Stable tag: trunk
