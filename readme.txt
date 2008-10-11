@@ -23,7 +23,7 @@ Adds a [LibDig](http://www.libdig.co.uk "UK Liberal Democrats Social Bookmarking
 
 = Can I move the LibDig box to the right hand side of my blog? =
 
-Yes. Go to the LibDig page under the 'Design' menu to set which site of the blog your LibDig buttons will appear.
+Yes. Go to the LibDig page under the 'Design' menu to set which side of the blog your LibDig buttons will appear.
 
 == Screenshots ==
 
