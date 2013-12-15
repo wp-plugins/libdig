@@ -3,7 +3,7 @@
 Plugin Name: LibDig plugin
 Plugin URI: http://www.flocktogether.org.uk/blog/2008/10/09/libdig-wordpress-plug-in/
 Description: Adds a Lib Dig box to Wordpress posts. <a href="themes.php?page=libdigoptions">Edit options</a>.
-Version: 0.4
+Version: 0.5
 Author: Martin Tod
 Author URI: http://www.martintod.org.uk
 */
@@ -75,7 +75,7 @@ function showLibDigOptions() {
         // Put an options updated message on the screen
 
 ?>
-<div class="updated"><p><strong><?php _e('Option saved.', 'libdig_trans_domain' ); ?></strong></p></div>
+<div class="updated"><p><strong><?php _e('Option saved.', 'libdig_plugin' ); ?></strong></p></div>
 <?php
 
     }
@@ -86,7 +86,7 @@ function showLibDigOptions() {
 
     // header
 
-    echo "<h2>" . __( 'LibDig Plugin Options', 'libdig_trans_domain' ) . "</h2>";
+    echo "<h2>" . __( 'LibDig Plugin Options', 'libdig_plugin' ) . "</h2>";
 
     // options form
     
@@ -102,16 +102,16 @@ else:
 	$rightchecked = $checked;unset($leftchecked);
 endif;
 ?>
-<p><?php _e("Which side of the post do you wish to show the LibDig button?", 'libdig_question' ); ?></p>
+<p><?php _e("Which side of the post do you wish to show the LibDig button?", 'libdig_plugin' ); ?></p>
 <input name="<?php echo $data_field_name; ?>" id="radioleft" type="radio" accesskey="l" tabindex="1" value="left" <?php echo $leftchecked;?> />
-<label for="radioleft"><?php _e("left", 'libdig_left' ); ?></label>
+<label for="radioleft"><?php _e("left", 'libdig_plugin' ); ?></label>
 <p>
   <input name="<?php echo $data_field_name; ?>" type="radio" id="radioright" value="right" accesskey="r" tabindex="2" <?php echo $rightchecked;?> />
-  <label for="radioright"><?php _e("right", 'libdig_right' ); ?></label>
+  <label for="radioright"><?php _e("right", 'libdig_plugin' ); ?></label>
 </p>
 
 <p class="submit">
-<input type="submit" name="Submit" value="<?php _e('Update Options', 'mt_trans_domain' ) ?>" />
+<input type="submit" name="Submit" value="<?php _e('Update Options', 'libdig_plugin' ) ?>" />
 </p>
 
 </form>
