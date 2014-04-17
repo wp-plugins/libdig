@@ -8,7 +8,7 @@ Stable tag: 0.6
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Used to add a LibDig button to your blog posts. Now displays a message telling you to deactive and delete the plug-in.
+Used to add a LibDig button to your blog posts. Now displays a message telling you to deactivate and delete the plug-in.
 
 == Description ==
 
