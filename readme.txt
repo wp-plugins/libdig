@@ -3,27 +3,31 @@ Contributors: mpntod
 Donate link: http://www.flocktogether.org.uk/donation.php
 Tags: posts,LibDig,plugin,post,bookmark,social bookmark,bookmarking,social bookmarketing,liberal,politics,Liberal Democrats
 Requires at least: 2.02
-Tested up to: 3.4.1
-Stable tag: 0.5
+Tested up to: 3.9
+Stable tag: 0.6
 
-Adds a LibDig button to your blog posts.
+Used to add a LibDig button to your blog posts. Now displays a message telling you to deactive and delete the plug-in.
 
 == Description ==
 
-Adds a [LibDig](http://www.libdig.co.uk "UK Liberal Democrats Social Bookmarking") button to your blog posts.
+This plug-in used to add a [LibDig](http://www.libdig.co.uk "UK Liberal Democrats Social Bookmarking") button to your blog posts - but now has been updated to tell you deactivate and remove it!
 
-[LibDig](http://www.libdig.co.uk "UK Liberal Democrats Social Bookmarking") is the [UK Liberal Democrats](http://www.libdems.org.uk) social bookmarking service.
+[LibDig](http://www.libdig.co.uk "UK Liberal Democrats Social Bookmarking") was the [UK Liberal Democrats](http://www.libdems.org.uk) social bookmarking service that ran from October 2008 until April 2014.
 
 == Installation ==
 
 1. Upload `LibDig.php` to the `/wp-content/plugins/` directory
 1. Activate the plugin through the 'Plugins' menu in WordPress
 
+== Upgrade notice ==
+= 0.6 =
+* The service is discontinued. Please deactive and delete this plug-in.
+
 == Frequently asked questions ==
 
-= Can I move the LibDig box to the right hand side of my blog? =
+= Does this plug-in actually work? =
 
-Yes. Go to the LibDig page under the 'Design' menu to set which side of the blog your LibDig buttons will appear.
+No. The service it supported has been discontinued, so please remove and delete the plug-in.
 
 == Screenshots ==
 
