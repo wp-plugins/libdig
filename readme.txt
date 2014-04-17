@@ -1,10 +1,12 @@
 === LibDig ===
-Contributors: mpntod
+Contributors: mpntod,artesea
 Donate link: http://www.flocktogether.org.uk/donation.php
 Tags: posts,LibDig,plugin,post,bookmark,social bookmark,bookmarking,social bookmarketing,liberal,politics,Liberal Democrats
 Requires at least: 2.02
 Tested up to: 3.9
 Stable tag: 0.6
+License: GPLv2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 Used to add a LibDig button to your blog posts. Now displays a message telling you to deactive and delete the plug-in.
 
@@ -22,6 +24,19 @@ This plug-in used to add a [LibDig](http://www.libdig.co.uk "UK Liberal Democrat
 == Upgrade notice ==
 = 0.6 =
 * The service is discontinued. Please deactive and delete this plug-in.
+
+== Changelog ==
+= 0.6 =
+* Disabled LibDig functionality. Added deactivation and deletion message.
+
+= 0.5 =
+* Added support for internationalisation
+
+= 0.4 =
+* Added left or right display option
+
+= 0.31 =
+* First version hosted in Wordpress repository
 
 == Frequently asked questions ==
 
