@@ -3,7 +3,7 @@ Contributors: mpntod
 Donate link: http://www.flocktogether.org.uk/donation.php
 Tags: posts,LibDig,plugin,post,bookmark,social bookmark,bookmarking,social bookmarketing,liberal,politics,Liberal Democrats
 Requires at least: 2.02
-Tested up to: 3.4.1
+Tested up to: 3.9
 Stable tag: 0.5
 
 Adds a LibDig button to your blog posts.
