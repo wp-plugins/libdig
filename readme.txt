@@ -3,7 +3,7 @@ Contributors: mpntod,artesea
 Donate link: http://www.flocktogether.org.uk/donation.php
 Tags: posts,LibDig,plugin,post,bookmark,social bookmark,bookmarking,social bookmarketing,liberal,politics,Liberal Democrats
 Requires at least: 2.02
-Tested up to: 3.9
+Tested up to: 4.3
 Stable tag: 0.6
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
